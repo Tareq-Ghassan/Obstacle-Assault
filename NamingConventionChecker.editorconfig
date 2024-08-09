@@ -1,0 +1,124 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# Unreal Engine Naming Conventions
+# General Assets
+[**/HDRI/*]
+asset_prefix = HDR_
+
+[**/Materials/*]
+asset_prefix = M_
+
+[**/MaterialInstances/*]
+asset_prefix = MI_
+
+[**/PhysicsAssets/*]
+asset_prefix = PHYS_
+
+[**/PhysicsMaterials/*]
+asset_prefix = PM_
+
+[**/PostProcessMaterials/*]
+asset_prefix = PPM_
+
+[**/SkeletalMeshes/*]
+asset_prefix = SK_
+
+[**/StaticMeshes/*]
+asset_prefix = SM_
+
+[**/Textures/*]
+asset_prefix = T_
+
+[**/OCIOProfiles/*]
+asset_prefix = OCIO_
+
+# Blueprints
+[**/ActorComponents/*]
+asset_prefix = AC_
+
+[**/AnimationBlueprints/*]
+asset_prefix = ABP_
+
+[**/BlueprintInterfaces/*]
+asset_prefix = BI_
+
+[**/Blueprints/*]
+asset_prefix = BP_
+
+[**/CurveTables/*]
+asset_prefix = CT_
+
+[**/DataTables/*]
+asset_prefix = DT_
+
+[**/Enums/*]
+asset_prefix = E_
+
+[**/Structures/*]
+asset_prefix = F_
+
+[**/WidgetBlueprints/*]
+asset_prefix = WBP_
+
+# Particle Effects
+[**/ParticleSystems/*]
+asset_prefix = PS_
+
+[**/NiagaraEmitters/*]
+asset_prefix = FXE_
+
+[**/NiagaraSystems/*]
+asset_prefix = FXS_
+
+[**/NiagaraFunctions/*]
+asset_prefix = FXF_
+
+# Skeletal Mesh Animations
+[**/Rigs/*]
+asset_prefix = Rig_
+
+[**/Skeletons/*]
+asset_prefix = SKEL_
+
+[**/Montages/*]
+asset_prefix = AM_
+
+[**/AnimationSequences/*]
+asset_prefix = AS_
+
+[**/BlendSpaces/*]
+asset_prefix = BS_
+
+# ICVFX
+[**/NDisplayConfigurations/*]
+asset_prefix = NDC_
+
+# Animation
+[**/LevelSequences/*]
+asset_prefix = LS_
+
+[**/SequencerEdits/*]
+asset_prefix = EDIT_
+
+# Media
+[**/MediaSources/*]
+asset_prefix = MS_
+
+[**/MediaOutputs/*]
+asset_prefix = MO_
+
+[**/MediaPlayers/*]
+asset_prefix = MP_
+
+[**/MediaProfiles/*]
+asset_prefix = MPR_
+
+# Other
+[**/LevelSnapshots/*]
+asset_prefix = SNAP_
+
+[**/RemoteControlPresets/*]
+asset_prefix = RCP_
