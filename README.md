@@ -43,7 +43,7 @@ To play **Obstacle-Assault**, follow these steps:
 
 1. **Clone the Repository:**
    \`\`\`sh
-   git clone https://github.com/yourusername/Obstacle-Assault.git
+   git clone https://github.com/Tareq-Ghassan/Obstacle-Assault.git
    \`\`\`
 2. **Open the Project in Unreal Engine:**
    - Open Unreal Engine and select the `Obstacle-Assault` project from your list of projects.
